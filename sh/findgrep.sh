@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ptn=$1
+pattern=$1
 dir=$2
 name=$3
 
